@@ -1,3 +1,5 @@
 # Website-Crawler-demo
  
-Building a python script to crawl a given website gathering click on all links on every page
+Built a python script that crawls a given website gathering all links on every page, then store them in an excel file.
+
+Can also differentiate and sort between company and external links. 
